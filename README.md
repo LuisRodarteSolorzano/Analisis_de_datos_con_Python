@@ -21,11 +21,12 @@ Para acceder a las soluciones, clona la branch master en tu computadora. Las sol
 Hay Retos que tienen funciones de verificación para hacer tests del código escrito por los alumnos. Cuando un Reto mencione una función de verificación, puedes encontrarla en la misma carpeta donde está el Reto, en un archivo llamado helpers.py.
 
 📑 Sesiones
-Sesion-01: Estimados de Locación y Variabilidad
-Sesion-02: Introducción a la visualización de datos: Distribuciones
-Sesion-03: Exploración de Variables Categóricas y Análisis Multivariable
-Sesion-04: Correlaciones y Regresión Linear Simple
-Sesion-05: Distribuciones muestrales y técnicas de evaluación de modelos
-Sesion-06: Visualización de Datos Avanzada
-Sesion-07: Pruebas A/B y Procesamiento de Lenguaje Natural
-Sesion-08: Introducción a Machine Learning: Clasificación No Supervisada y Supervisada
+
+- Sesion-01: Estimados de Locación y Variabilidad
+- Sesion-02: Introducción a la visualización de datos: Distribuciones
+- Sesion-03: Exploración de Variables Categóricas y Análisis Multivariable
+- Sesion-04: Correlaciones y Regresión Linear Simple
+- Sesion-05: Distribuciones muestrales y técnicas de evaluación de modelos
+- Sesion-06: Visualización de Datos Avanzada
+- Sesion-07: Pruebas A/B y Procesamiento de Lenguaje Natural
+- Sesion-08: Introducción a Machine Learning: Clasificación No Supervisada y Supervisada
